@@ -11,7 +11,7 @@ Questo sito ha lo scopo di fornire l'accesso e la possibilità di contribuire al
 
 Sfortunatamente, la wiki di SA:MP è stata chiusa a fine settembre (sebbene gran parte del suo contenuto possa essere trovato nell'archivio Internet pubblico).
 
-Abbiamo bisogno dell'aiuto della comunità per trasferire il contenuto della vecchia wiki qui!
+Abbiamo bisogno dell'aiuto della community per trasferire il contenuto della vecchia wiki qui!
 
 Se sei interessato, controlla questo link per istruzioni su come convertire i contenuti: https://github.com/openmultiplayer/wiki/issues/27#issuecomment-699635305
 
